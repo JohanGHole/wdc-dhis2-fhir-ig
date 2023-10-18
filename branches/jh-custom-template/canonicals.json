@@ -1,0 +1,9 @@
+[
+  {
+    "id" : "wdc-dhis2-fhir-ig",
+    "type" : "ImplementationGuide",
+    "url" : "http://dhis2.org/fhir/example",
+    "version" : "1.0.0",
+    "name" : "dhis2FhirIG"
+  }
+]

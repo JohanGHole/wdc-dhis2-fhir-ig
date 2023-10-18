@@ -1,0 +1,21 @@
+﻿dhis2FhirIG : Validation Results
+=========================================
+
+err = 4, warn = 6, info = 0
+IG Publisher Version: 1.4.16
+Generated Wed Oct 18 12:57:04 UTC 2023. FHIR version 4.0.1 for wdc-dhis2-fhir-ig#1.0.0 (canonical = http://dhis2.org/fhir/example)
+ Build Errors : 0 / 5 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-wdc-dhis2-fhir-ig : 4 / 1 / 1
+</table>
+== n/a ==
+WARNING: ImplementationGuide.url: The canonical URL for an Implementation Guide must point directly to the implementation guide resource, not to the Implementation Guide as a whole
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-wdc-dhis2-fhir-ig.json ==
+ERROR: ImplementationGuide.where(url = 'http://dhis2.org/fhir/example'): Conformance resource /github/workspace/fsh-generated/resources/ImplementationGuide-wdc-dhis2-fhir-ig.json - the canonical URL (http://dhis2.org/fhir/example/ImplementationGuide/wdc-dhis2-fhir-ig) does not match the URL (http://dhis2.org/fhir/example)
+ERROR: ImplementationGuide.url: Resource id/url mismatch: wdc-dhis2-fhir-ig/http://dhis2.org/fhir/example
+WARNING: ImplementationGuide/wdc-dhis2-fhir-ig: ImplementationGuide: Constraint failed: ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation'
+ERROR: ImplementationGuide/wdc-dhis2-fhir-ig: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide|4.0.1)
+ERROR: /github/workspace/fsh-generated/resources/ImplementationGuide-wdc-dhis2-fhir-ig: URL Mismatch http://dhis2.org/fhir/example/ImplementationGuide/wdc-dhis2-fhir-ig vs http://dhis2.org/fhir/example

@@ -1,0 +1,57 @@
+{
+  "date" : "Wed, 18 Oct, 2023 13:19:29 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-wdc-dhis2-fhir-ig.json",
+      "size" : 1751,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 69,
+          "length" : 58
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 69,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 69,
+          "length" : 110
+        },
+        {
+          "activity" : "validate",
+          "start" : 69,
+          "length" : 1796
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 71,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 71,
+          "length" : 119
+        },
+        {
+          "activity" : "generate2",
+          "start" : 73,
+          "length" : 88
+        },
+        {
+          "activity" : "generateExampleZip",
+          "start" : 82,
+          "length" : 13
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 82,
+          "length" : 2
+        }
+      ]
+    }
+  ]
+}
