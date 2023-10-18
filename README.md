@@ -1,4 +1,4 @@
-# DHIS2 FHIR Implementation Guide
+# WDC DHIS2 FHIR Implementation Guide
 
 This is an empty FHIR IG for the WDC FHIR-to-DHIS2 project.
 
