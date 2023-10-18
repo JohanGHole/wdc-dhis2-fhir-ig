@@ -11,7 +11,7 @@ id: wdc-dhis2-fhir-ig
 canonical: http://dhis2.org/fhir/example
 url: http://dhis2.org/fhir/example
 name: dhis2FhirIG
-title: "WDC DHIS2-FHIR Implementation Guide: Example IG Release 1"
+title: "WDC DHIS2-FHIR Implementation Guide: Example IG Release 1.0"
 description: Example IG providing examples of Logical Models for the WDC DHIS2-FHIR integration project.
 status: active
 license: CC0-1.0
