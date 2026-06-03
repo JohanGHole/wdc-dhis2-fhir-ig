@@ -1,0 +1,13 @@
+# wdc-dhis2-fhir-ig#1.0.0: WDC DHIS2-FHIR Implementation Guide: Example IG Release 1.0(en)
+
+## Pages
+
+* [Home](en/index.md)
+* [Changes](en/changes.md)
+* [Artifacts Summary](en/artifacts.md)
+
+## Resources
+
+### ImplementationGuides
+
+* [WDC DHIS2-FHIR Implementation Guide: Example IG Release 1.0](en/ImplementationGuide-wdc-dhis2-fhir-ig.md)

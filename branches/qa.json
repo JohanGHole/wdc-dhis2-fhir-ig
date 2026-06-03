@@ -1,0 +1,20 @@
+{
+  "url" : "http://dhis2.org/fhir/example",
+  "name" : "dhis2FhirIG",
+  "title" : "WDC DHIS2-FHIR Implementation Guide: Example IG Release 1.0",
+  "description" : "Example IG providing examples of Logical Models for the WDC DHIS2-FHIR integration project.",
+  "ig-date" : "2023-10-18",
+  "status" : "active",
+  "package-id" : "wdc-dhis2-fhir-ig",
+  "ig-ver" : "1.0.0",
+  "date" : "Wed, 03 Jun, 2026 19:24:45 +0000",
+  "dateISO8601" : "2026-06-03T19:24:45+00:00",
+  "errs" : 5,
+  "warnings" : 6,
+  "hints" : 0,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 0,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 931418336
+}
